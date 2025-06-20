@@ -61,7 +61,3 @@ This repository contains code and data for predicting ground-level tropospheric 
 
 - NetCDF conversion: https://gist.github.com/copernicusmarinegist/b57417225d0d4ea47c5d6200f9d8cac3
 - SHAP documentation: https://shap.readthedocs.io/en/latest/
-
-## Acknowledgements
-
-This work was carried out as part of an academic research project under IIT Jodhpur.
